@@ -9,7 +9,7 @@ public void setup(){ // se ejecuta una sola vez
  grados_fa=95;
  grados_ce=0;
    
- //llamar a funcion saludo
+ //llamar a funcion convertidor
  convertidor();
  
 }// fin de setup
